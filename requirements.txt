@@ -1,0 +1,10 @@
+aiohttp
+sqlalchemy
+asyncpg
+python-dotenv
+bcrypt
+alembic
+pydantic
+uvicorn
+gunicorn
+greenlet
